@@ -1,6 +1,12 @@
 # SPAMZEE
-This is a fun automated bot for spamming on various social media platforms
 
+Hello guys! This is a fun little project called spamzee, you can use it to spam your friends, family or whoever you want.
+
+
+
+# Overview
+
+Spamzee is an automated bot which lets you spam anywhere you want, though it is specially designed for spamming in Whatsapp, Telegram and Email you can spam on other platforms too by typing input others.
 
 
 
@@ -11,18 +17,25 @@ ________________________________________________________________________________
 ![Spamzee](https://user-images.githubusercontent.com/109758134/197852239-a4fcd37e-bfbf-45c2-b6bb-f58363708578.jpg)
 
 
+_________________________________________________________________________________________________________________________________________________________________________
 
 
 
+# Features
+
+
+◘ Asks user -
+• what to spam
+• whom to spam
+• where to spam
+• and finally how many times
 
 
 
+# How to Install
 
 
-
-
-
-
+For running this project you need to install following modules
 
 
 
