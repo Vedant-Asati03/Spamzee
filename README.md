@@ -49,10 +49,8 @@ pip install AppOpener
 **My Github Profile** - [Vedant-Asati03 :octocat:](https://github.com/Vedant-Asati03)     
 
 <p align="center">
-  <img width="460" height="300" src="<p align="center">
-  <img width="460" height="300" src="![github](https://user-images.githubusercontent.com/109758134/198029341-a41af8a1-d0b3-4b33-81c3-48d2c58a01a9.jpeg)
+  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/109758134/198030132-cd5713f3-2a70-499c-aa99-f053d0ccf256.png)
 ">
-</p>">
 </p>
 
 **My Dev Profile** - [vedantasati03](https://dev.to/vedantasati03)
