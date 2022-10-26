@@ -4,7 +4,7 @@ Hello guys! This is a fun little project called spamzee, you can use it to spam 
 
 
 
-# Overview
+# ABOUT
 
 Spamzee is an automated bot which lets you spam anywhere you want, though it is specially designed for spamming in `Whatsapp`, `Telegram` and `Email` you can spam on other platforms too by **typing input** `others`.
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 
 
-# Installation
+# INSTALLATION
 
 
 For running this project you need to **install** following modules
@@ -40,19 +40,17 @@ pip install AppOpener
 ```
 
 
-# How to connect to me
+# HOW TO CONNECT TO ME
 
 
 
     
 
-**My Github Profile** - [Vedant-Asati03 :octocat:                  
-![image](https://user-images.githubusercontent.com/109758134/198025040-ddccb713-d33a-4106-817d-881389d201a5.png)
-](https://github.com/Vedant-Asati03)                                        **My Dev Profile** - [vedantasati03                                
-![image](https://user-images.githubusercontent.com/109758134/198025540-d471f1d6-463b-4079-8d2b-88fc0feae802.png)
-](https://dev.to/vedantasati03)
+**My Github Profile** - [Vedant-Asati03 :octocat:](https://github.com/Vedant-Asati03)     
+
+[<img align="center" width="100" height="100" src="![github](https://user-images.githubusercontent.com/109758134/198028773-fc7b9892-f3ff-4f6f-96c5-beb77a2fcd0d.jpeg)
+">](https://github.com/Vedant-Asati03)
 
 
-
-
+**My Dev Profile** - [vedantasati03](https://dev.to/vedantasati03)
 
