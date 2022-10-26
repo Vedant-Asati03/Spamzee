@@ -44,10 +44,9 @@ ________________________________________________________________________________
 
 For running this project you need to **install** following modules
 
-**pip install pyautogui**
+```pip install pyautogui```
 
-**pip install termcolor**
+```pip install termcolor```
 
-**pip install
 
 
