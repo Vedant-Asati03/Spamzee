@@ -53,6 +53,6 @@ pip install AppOpener
 
 
 
-**My Dev Profile** - [vedantasati03                                ![image](https://user-images.githubusercontent.com/109758134/198025540-d471f1d6-463b-4079-8d2b-88fc0feae802.png)
-
+**My Dev Profile** - [vedantasati03                                
+![image](https://user-images.githubusercontent.com/109758134/198025540-d471f1d6-463b-4079-8d2b-88fc0feae802.png)
 ](https://dev.to/vedantasati03)
