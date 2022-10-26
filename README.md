@@ -46,8 +46,12 @@ pip install AppOpener
 
     
 
-**My Github username** - [Vedant-Asati03 :octocat: ![image](https://user-images.githubusercontent.com/109758134/198024719-79e78934-78ce-4013-ba8a-ceba75a88fb6.png)
+**My Github username** - [Vedant-Asati03 :octocat:
+
+![image](https://user-images.githubusercontent.com/109758134/198025040-ddccb713-d33a-4106-817d-881389d201a5.png)
 ](https://github.com/Vedant-Asati03)
 
-**My Dev username** - [vedantasati03 ![image](https://user-images.githubusercontent.com/109758134/198024365-7dc91240-5240-4ffb-af28-76c76e2db9b2.png)
+**My Dev username** - [vedantasati03 
+
+![image](https://user-images.githubusercontent.com/109758134/198024365-7dc91240-5240-4ffb-af28-76c76e2db9b2.png)
 ](https://dev.to/vedantasati03)
