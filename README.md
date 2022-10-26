@@ -24,18 +24,30 @@ ________________________________________________________________________________
 # Features
 
 
+
+
 ◘ Asks user -
+
+
 • what to spam
+
 • whom to spam
+
 • where to spam
-• and finally how many times
+
+• and finally, how many times to spam
 
 
 
-# How to Install
+# Installation
 
 
-For running this project you need to install following modules
+For running this project you need to **install** following modules
 
+**pip install pyautogui**
+
+**pip install termcolor**
+
+**pip install
 
 
