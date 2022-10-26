@@ -21,23 +21,6 @@ ________________________________________________________________________________
 
 
 
-# Features
-
-
-
-
-**◘ Spamzee Asks user -**
-
-
-• what to spam
-
-• whom to spam
-
-• where to spam
-
-• and finally, how many times to spam
-
-
 
 # Installation
 
