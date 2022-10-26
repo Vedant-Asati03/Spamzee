@@ -43,7 +43,11 @@ pip install AppOpener
 # How to connect to me
 
 
+
+
+                github website
+    
+
 **:octocat: My Github Profile** - [Vedant Asati](https://github.com/Vedant-Asati03)
 
-**Vedant Asati profile picture
- My Dev Profile** - [Vedant Asati](https://dev.to/vedantasati03)
+**My Dev Profile** - [Vedant Asati](https://dev.to/vedantasati03)
