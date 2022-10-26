@@ -56,6 +56,6 @@ For running this project you need to **install** following modules
 
 **My Github Profile** - [Vedant-Asati03](https://github.com/Vedant-Asati03)
 
-**My Dev Profile** - [vedantasati](https://dev.to/)
+**My Dev Profile** - [vedantasati](https://dev.to/vedantasati03)
 
 
