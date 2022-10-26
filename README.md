@@ -54,6 +54,8 @@ For running this project you need to **install** following modules
 # How to connect to me
 
 
-**My Github Profile - **(Vedant Asati)[https://github.com/Vedant-Asati03]
+**My Github Profile - **[Vedant Asati](https://github.com/Vedant-Asati03)
+
+**My Dev Profile - **[Vedant Asati](https://dev.to/)
 
 
