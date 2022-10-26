@@ -46,6 +46,6 @@ pip install AppOpener
 
     
 
-**My Github Profile** - [Vedant Asati](https://github.com/Vedant-Asati03) :octocat:
+**My Github username** - [Vedant-Asati03 :octocat:](https://github.com/Vedant-Asati03)
 
-**My Dev Profile** - [Vedant Asati](https://dev.to/vedantasati03)
+**My Dev username** - [vedantasati03](https://dev.to/vedantasati03)
