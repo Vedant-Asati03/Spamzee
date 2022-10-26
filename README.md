@@ -27,7 +27,8 @@ ________________________________________________________________________________
 
 For running this project you need to **install** following modules
 
-```shpip install pyautogui```
+```sh
+pip install pyautogui```
 
 ```pip install termcolor```
 
