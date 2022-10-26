@@ -28,11 +28,16 @@ ________________________________________________________________________________
 For running this project you need to **install** following modules
 
 ```sh
-pip install pyautogui```
+pip install pyautogui
+```
 
-```pip install termcolor```
+```sh
+pip install termcolor
+```
 
-```pip install AppOpener```
+```sh
+pip install AppOpener
+```
 
 
 # How to connect to me
