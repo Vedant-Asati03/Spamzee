@@ -6,18 +6,18 @@ Hello guys! This is a fun little project called spamzee, you can use it to spam 
 
 # Overview
 
-Spamzee is an automated bot which lets you spam anywhere you want, though it is specially designed for spamming in **Whatsapp**, **Telegram** and **Email** you can spam on other platforms too by typing input others.
+Spamzee is an automated bot which lets you spam anywhere you want, though it is specially designed for spamming in **Whatsapp**, **Telegram** and **Email** you can spam on other platforms too by **typing input** `others`.
 
 
 
 
-_________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 ![Spamzee](https://user-images.githubusercontent.com/109758134/197852239-a4fcd37e-bfbf-45c2-b6bb-f58363708578.jpg)
 
 
-_________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 
