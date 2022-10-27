@@ -109,7 +109,7 @@ if __name__ == '__main__':
             server.starttls(context=context)
             server.ehlo()
             server.login('your_email id',
-                         'your_server')
+                         'your_password')
             for i in range(counts):
                 server.sendmail('your_email id',
                                 whom, spam)
