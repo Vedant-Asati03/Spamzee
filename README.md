@@ -43,15 +43,7 @@ pip install AppOpener
 # HOW TO CONNECT TO ME
 
 
-
-    
-
-**My Github Profile** - [Vedant-Asati03 :octocat:](https://github.com/Vedant-Asati03)     
-
-<p align="center">
-  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/460/300)
-">
+<p align="left">
+<a href="https://dev.to/vedantasati03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedantasati03" height="30" width="40" /><a href="https://github.com/Vedant-Asati03" target="blank"><img align="center" src="C:/Users/lenovo/Downloads/Github.png" alt="Vedant-Asati03" height="30" width="40" /> </a>
 </p>
-
-**My Dev Profile** - [vedantasati03](https://dev.to/vedantasati03)
 
