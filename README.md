@@ -44,6 +44,6 @@ pip install AppOpener
 
 
 <p align="left">
-<a href="https://dev.to/vedantasati03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedantasati03" height="40" width="50" /><a href="https://github.com/Vedant-Asati03" target="blank"><img align="center" src="C:/Users/lenovo/Downloads/Github.png" alt="Vedant-Asati03" height="40" width="50" /> </a>
+<a href="https://dev.to/vedantasati03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedantasati03" height="40" width="50" /> </a>
 </p>
 
