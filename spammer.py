@@ -12,6 +12,7 @@ import pyfiglet
 from rich.console import Console
 from rich.align import Align
 from rich.text import Text
+from rich.progress import track
 from AppOpener import run as open_app
 
 
@@ -108,13 +109,14 @@ if __name__ == "__main__":
                     print(e)
 
             elif "Others" in where:
-                print(
+                console.print(
                     (
-                        "Put your cursor where you want to spam,\nSpamming will start in 10 seconds...",
-                        "blue",
-                    )
+                        "\nPut your cursor where you want to spam,\nSpamming will start in 10 seconds...\n"
+                    ),
+                    style="bold u #BF9FEE",
                 )
-                time.sleep(10)
+                for i in track(range(10), description="Waiting..."):
+                    time.sleep(1)
                 spamit(spam)
 
             else:
