@@ -50,11 +50,17 @@ if __name__ == "__main__":
 
     console.print(aligned_text)
 
-    spam = console.input(Text("|What you want to spam| : ", style="#00ABB3")).capitalize()
+    spam = console.input(
+        Text("|What you want to spam| : ", style="#00ABB3")
+    ).capitalize()
 
-    whom = console.input(Text("|Whom do you want to spam/ email_id| : ", style="#00ABB3")).capitalize()
+    whom = console.input(
+        Text("|Whom do you want to spam/ email_id| : ", style="#00ABB3")
+    ).capitalize()
 
-    where = console.input(Text("|Where do you want to spam| : ", style="#00ABB3")).capitalize()
+    where = console.input(
+        Text("|Where do you want to spam| : ", style="#00ABB3")
+    ).capitalize()
 
     while True:
 
@@ -62,13 +68,19 @@ if __name__ == "__main__":
             count = int(console.input(Text("|How many times| : ", style="#00ABB3")))
 
             if "Telegram" in where:
-                console.print("\nSpamming in [bold u yellow]Telegram[bold u yellow]", style="#B2B2B2")
+                console.print(
+                    "\nSpamming in [bold u yellow]Telegram[bold u yellow]",
+                    style="#B2B2B2",
+                )
                 open_app("Telegram")
                 search(whom)
                 spamit(spam)
 
             elif "Whatsapp" in where:
-                console.print("\nSpamming in [bold u yellow]Whatsapp[bold u yellow]", style="#B2B2B2")
+                console.print(
+                    "\nSpamming in [bold u yellow]Whatsapp[bold u yellow]",
+                    style="#B2B2B2",
+                )
                 open_app("Whatsapp")
                 time.sleep(5)
                 search(whom)
@@ -116,7 +128,9 @@ if __name__ == "__main__":
             break
 
         except ValueError:
-            console.print("\n[bold u]Note[bold u]: Enter a number, please!\n", style="red")
+            console.print(
+                "\n[bold u]Note[bold u]: Enter a number, please!\n", style="red"
+            )
             continue
 
     else:
