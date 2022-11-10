@@ -19,16 +19,9 @@ Spamzee is an automated bot which lets you spam on platforms like `Whatsapp`, `T
 For running this project you need to **install** following modules
 
 ```sh
-pip install pyautogui
+pip install -r requirements.txt
 ```
 
-```sh
-pip install termcolor
-```
-
-```sh
-pip install AppOpener
-```
 
 
 
