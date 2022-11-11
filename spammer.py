@@ -88,7 +88,7 @@ if __name__ == "__main__":
                 time.sleep(4)
                 spamit(spam)
 
-            elif "Email" in where:
+            elif "Gmail" in where:
                 context = ssl.create_default_context()
 
                 try:
@@ -134,6 +134,3 @@ if __name__ == "__main__":
                 "\n[bold u]Note[bold u]: Enter a number, please!\n", style="red"
             )
             continue
-
-    else:
-        pass
