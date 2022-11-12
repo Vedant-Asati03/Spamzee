@@ -14,8 +14,7 @@ Spamzee is an automated bot which lets you spam on platforms like `Whatsapp`, `T
 
 # How It Works
 
-https://user-images.githubusercontent.com/109758134/201280457-091fdebe-a545-4d94-be0f-9ff8e4c7ac36.mp4
-
+https://github.com/Vedant-Asati03/Spamzee/blob/main/assets/HowItWorks.mp4
 <br>
 
 # Installation
