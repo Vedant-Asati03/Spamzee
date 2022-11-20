@@ -83,9 +83,11 @@ if __name__ == "__main__":
                     style="#B2B2B2",
                 )
                 open_app("Whatsapp")
-                time.sleep(5)
+                time.sleep(3)
                 search(whom)
-                time.sleep(4)
+                time.sleep(1)
+                pyautogui.press("K DOWN")
+                time.sleep(3)
                 spamit(spam)
 
             elif "Gmail" in where:

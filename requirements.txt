@@ -2,3 +2,4 @@ pyautogui
 pyfiglet
 rich
 AppOpener
+
